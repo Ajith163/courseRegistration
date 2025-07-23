@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Introduction to Programming",
+    "description": "Learn the basics of programming.",
+    "duration": "8 weeks",
+    "fee": "$200",
+    "tutor": "Alice Smith"
+  },
+  {
+    "id": 2,
+    "name": "Data Structures",
+    "description": "Explore common data structures.",
+    "duration": "10 weeks",
+    "fee": "$250",
+    "tutor": "Bob Johnson"
+  },
+  {
+    "id": 3,
+    "name": "Web Development",
+    "description": "Build modern web applications.",
+    "duration": "12 weeks",
+    "fee": "$300",
+    "tutor": "Carol Lee"
+  },
+  {
+    "id": 4,
+    "name": "Database Systems",
+    "description": "Understand relational databases.",
+    "duration": "8 weeks",
+    "fee": "$220",
+    "tutor": "David Kim"
+  },
+  {
+    "id": 5,
+    "name": "Algorithms",
+    "description": "Study algorithm design and analysis.",
+    "duration": "10 weeks",
+    "fee": "$270",
+    "tutor": "Eve Martinez"
+  },
+  {
+    "id": 6,
+    "name": "Operating Systems",
+    "description": "Learn about OS concepts.",
+    "duration": "9 weeks",
+    "fee": "$230",
+    "tutor": "Frank Brown"
+  },
+  {
+    "id": 7,
+    "name": "Networks",
+    "description": "Introduction to computer networks.",
+    "duration": "7 weeks",
+    "fee": "$210",
+    "tutor": "Grace Wilson"
+  },
+  {
+    "id": 8,
+    "name": "Machine Learning",
+    "description": "Basics of ML and AI.",
+    "duration": "14 weeks",
+    "fee": "$400",
+    "tutor": "Henry Clark"
+  },
+  {
+    "id": 9,
+    "name": "Mobile App Development",
+    "description": "Create mobile applications.",
+    "duration": "11 weeks",
+    "fee": "$320",
+    "tutor": "Ivy Scott"
+  },
+  {
+    "id": 10,
+    "name": "Cloud Computing",
+    "description": "Learn about cloud platforms.",
+    "duration": "10 weeks",
+    "fee": "$350",
+    "tutor": "Jack Turner"
+  },
+  {
+    "id": 11,
+    "name": "Cybersecurity",
+    "description": "Introduction to security principles.",
+    "duration": "8 weeks",
+    "fee": "$260",
+    "tutor": "Karen Young"
+  },
+  {
+    "id": 12,
+    "name": "Software Engineering",
+    "description": "Principles of software development.",
+    "duration": "12 weeks",
+    "fee": "$330",
+    "tutor": "Leo Adams"
+  }
+]
